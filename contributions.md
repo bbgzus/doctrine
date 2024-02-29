@@ -12,6 +12,6 @@ We could write an entire section on why [anonymity is important](https://epic.or
 
 This whole project hinges upon the idea that a group of people can manage themselves and upkeep our practices & documentation.  It is important because it will deter our organization from become stale and fill loopholes that inevitably will be found so as to avoid the [Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy\_of\_the\_commons).
 
-If you're wanting to get involved more deeply go ahead and grab yourself a [new anonymous email](https://proton.me/mail) and contact me at [iambbgzus@gmail.com](https://app.gitbook.com/u/6RRXWckItVSXvYJap4IakwE79FI3) to begin your initiation, young grasshopper.&#x20;
+If you're wanting to get involved more deeply go ahead and grab yourself a [new anonymous email](https://proton.me/mail) and contact me at[ iambbgzus@gmail.com ](mailto:iambbgzus@gmail.com)to begin your initiation, young grasshopper.&#x20;
 
 🥋 🙇🏼 🥷🏻
