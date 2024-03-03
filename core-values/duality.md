@@ -1,5 +1,5 @@
 ---
-description: The Interconnectedness of Opposites
+description: The interconnectedness of opposites
 ---
 
 # Duality
