@@ -20,4 +20,5 @@
   * [Intuition, Logic & Emotion](core-values/intuition-logic-and-emotion.md)
   * [Progress Precedes Perfection](core-values/progress-precedes-perfection.md)
 * [Structure](structure.md)
+* [Kōan System](k-an-system.md)
 * [Contributions](contributions.md)
