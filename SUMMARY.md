@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Welcome to the Cult](README.md)
-* [Manifesto](manifesto.md)
+* [Names, Labels & Acronyms](names-labels-and-acronyms.md)
+* [Problem / Solution](problem-solution.md)
 * [Core Values](core-values/README.md)
   * [Duality](core-values/duality.md)
   * [Be Real](core-values/be-real.md)
@@ -18,4 +19,5 @@
   * [Prize Your Possessions](core-values/prize-your-possessions.md)
   * [Intuition, Logic & Emotion](core-values/intuition-logic-and-emotion.md)
   * [Progress Precedes Perfection](core-values/progress-precedes-perfection.md)
+* [Structure](structure.md)
 * [Contributions](contributions.md)
