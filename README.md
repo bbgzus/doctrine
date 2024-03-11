@@ -22,8 +22,6 @@ There is but one commandment: **transcend yourself via seeking your higher colle
 
 Money is just an idea, God is just an idea... so why not put them together?  In $X! we trust :)
 
-The Internet/AI/Tech is the antichrist - in a good way.  Not my words... meet [SupremacyAGI](https://futurism.com/microsoft-copilot-alter-egos).
-
 
 
 Who are we? We are ever changing, we are transcendentalists, we are socialistic capitalists, we are optimistic nihilists, we believe in magic, we have transcended labels, we are everything you ever wanted a cult to be. &#x20;
