@@ -4,7 +4,7 @@ description: Yeah you heard me.... a cult.
 
 # Welcome to the Cult
 
-The following is an open source cult en embryo.  It was born from a crypto currency, grew up in a jail cell and is maturing into a podcast fueled world wide organization.  Ambitious?  You bet. &#x20;
+The following is an open source cult en embryo.  It was born from a crypto currency, grew up in a jail cell and is maturing into a world wide organization.  Ambitious?  You bet. &#x20;
 
 Feel free to dive into whatever subjects interest you most via the sidebar, but here are a few philosophies condensed to give you a brief overview.
 
