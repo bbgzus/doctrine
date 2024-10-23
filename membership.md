@@ -2,13 +2,13 @@
 description: Not your typical pyramid scheme ⏄
 ---
 
-# Structure
+# Membership
 
 In keeping with the imagery our name evokes -- **Suns and Daughters of the Setting Sun** -- we will use the rays and body of the sun to describe our base organizational system.  All organizations are required to maintain a sense of order, this is ours. &#x20;
 
 There is a broad general group that all members originate from and pass through, this is the _SUN_.  The  investigator turns initiate turns member turns mentor turns grandmaster and VOILA! You can now create you're own _RAY._  This essentially means you get to start introducing your own rituals.  _RITUALS?!_  That's right.  No cult would be complete without them, and the group's goal is to get you on the path to essentially starting your own flavor of cult as an extension of ours.  See how that works?
 
-Each ritual signifies the graduation of one level to the next. The progression is as follows:
+Each ritual signifies the graduation of one level to the next. The progression is as follows for joining into the primary organizational hub:
 
 ### **Awaiting Invitation =>**  Sangha Crowdsurf Ritual
 

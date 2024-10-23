@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Welcome to the Cult](README.md)
-* [Names, Labels & Acronyms](names-labels-and-acronyms.md)
+* [Long-Form Manifest](long-form-manifest.md)
 * [Problem / Solution](problem-solution.md)
+* [Names & Labels](names-labels-and-acronyms.md)
 * [Core Values](core-values/README.md)
   * [Duality](core-values/duality.md)
   * [Be Real](core-values/be-real.md)
@@ -19,6 +20,12 @@
   * [Prize Your Possessions](core-values/prize-your-possessions.md)
   * [Intuition, Logic & Emotion](core-values/intuition-logic-and-emotion.md)
   * [Progress Precedes Perfection](core-values/progress-precedes-perfection.md)
-* [Structure](structure.md)
+* [Membership](membership.md)
 * [Kōan System](k-an-system.md)
 * [Contributions](contributions.md)
+
+## Individual Rays
+
+* [Intro](individual-rays/intro.md)
+* [Collective Spaces](individual-rays/collective-spaces.md)
+* [Self Love Spa](individual-rays/self-love-spa.md)
